@@ -1,6 +1,6 @@
 # LocalLlama CLI Tool
 
-LocalLlama is a Command-Line Interface (CLI) tool built using the LlamaIndex framework. It is designed to facilitate the loading of documents into a local LLM (Llama Language Model) and querying it with questions. LocalLlama offers several features, including the ability to customize the response mode of the query engine, specify the LLM model (currently supporting only llama models), and the option to save document data in a docstore.
+LocalLlama is a Command-Line Interface (CLI) tool built using the LlamaIndex framework. It is designed to facilitate the loading of documents into a local LLM (Large Language Model) and querying it with questions. LocalLlama offers several features, including the ability to customize the response mode of the query engine, specify the LLM model (currently supporting only llama models), and the option to save document data in a docstore.
 
 ## Features
 
